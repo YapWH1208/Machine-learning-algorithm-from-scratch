@@ -13,6 +13,11 @@ This repo will be intermittent update<br>
 - Lasso regressor
 - Logistic regressor
 
+## Metrics included
+### Common
+- Mean Squared Error
+- Mean Absolute Error
+
 ## Usage Example
 ### Linear Regression
 ```
