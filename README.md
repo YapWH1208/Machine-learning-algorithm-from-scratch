@@ -8,7 +8,9 @@ This repo will be intermittent update<br>
 
 ## Models included
 ### Linear Model
-- Linear regressor(normal/with L2 regularization)
+- Linear regressor
+- Ridge regressor
+- Lasso regressor
 - Logistic regressor
 
 ## Usage Example
