@@ -13,6 +13,10 @@ This repo will be intermittent update<br>
 - Lasso regressor
 - Logistic regressor
 
+### Tree
+- Decision tree
+- Random forest
+
 ## Metrics included
 ### Common
 - Mean Squared Error
