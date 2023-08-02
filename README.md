@@ -23,6 +23,12 @@ This repo will be intermittent update<br>
 - Mean Absolute Error
 
 ## Usage Example
+### Demo
+```
+cd WHMLT
+python demo.py
+```
+- Remember to change the filepath in the `demo.py`
 ### Linear Regression
 ```
 from WHMLT.linear import linear
