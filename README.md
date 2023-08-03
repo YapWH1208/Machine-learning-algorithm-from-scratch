@@ -17,6 +17,9 @@ This repo will be intermittent update<br>
 - Decision tree
 - Random forest
 
+### SVM(Support Vector Machine)
+- SVM
+
 ## Metrics included
 ### Common
 - Mean Squared Error
